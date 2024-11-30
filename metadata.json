@@ -1,6 +1,7 @@
 {
   "name": "Popoai",
   "symbol": "Popai",
-  "description": "Popai Ai Power Project will Take you to Mars",
-  "image": "https://raw.githubusercontent.com/hadoizz/aipower/4b24a160c0546d2307957deadb6b9a2549a3c5f1/images.jpg"
+  "uri": "https://raw.githubusercontent.com/hadoizz/aipower/4b24a160c0546d2307957deadb6b9a2549a3c5f1/metadata.json",
+  "uri_image": "https://raw.githubusercontent.com/hadoizz/aipower/4b24a160c0546d2307957deadb6b9a2549a3c5f1/images.jpg",
+  "description": "Popai Ai Power Project will Take you to Mars"
 }
